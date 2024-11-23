@@ -1,0 +1,1 @@
+>  Nothing much, just me learning [sql](https://www.w3schools.com/sql)
